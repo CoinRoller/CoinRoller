@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoinRoller
-- 👀 I’m interested in learning frontend
+- 👀 I’m now interested in learning frontend
 - 🌱 I’m currently learning html css Js
 - 💞️ I’m looking to collaborate on whatever i can
 - 📫 How to reach me docpinguino@gmail.com
